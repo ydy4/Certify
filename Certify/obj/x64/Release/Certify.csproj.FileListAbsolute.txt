@@ -1,0 +1,7 @@
+C:\Users\youssef\Source\Repos\Certify\Certify\bin\x64\Release\Certify.exe.config
+C:\Users\youssef\Source\Repos\Certify\Certify\bin\x64\Release\Certify.exe
+C:\Users\youssef\Source\Repos\Certify\Certify\bin\x64\Release\Interop.CERTENROLLLib.dll
+C:\Users\youssef\Source\Repos\Certify\Certify\obj\x64\Release\Certify.csproj.AssemblyReference.cache
+C:\Users\youssef\Source\Repos\Certify\Certify\obj\x64\Release\Certify.csproj.CoreCompileInputs.cache
+C:\Users\youssef\Source\Repos\Certify\Certify\obj\x64\Release\Certify.csproj.Up2Date
+C:\Users\youssef\Source\Repos\Certify\Certify\obj\x64\Release\Certify.exe
